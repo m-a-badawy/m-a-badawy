@@ -13,7 +13,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Vidly**
+- 🔭 I’m currently working on **Movie website project**
 
 - 🌱 I’m currently learning **Node.js, Git & GitHub, MySQL**
 
