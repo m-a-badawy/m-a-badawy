@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **work-space website project**
 
-- 🌱 I’m currently learning **MySQL, TypeScript**
+- 🌱 I’m currently learning **MySQL, TypeScript, Operating System, ( IT, Cloud, TCP/IP, and DevOps fundamentals )**
 
 - 💬 Ask me about **C++, JavaScript, Node.js, algorithms, data structures, OOP**
 
