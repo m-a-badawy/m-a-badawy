@@ -13,9 +13,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Movie website project**
+- 🔭 I’m currently working on **work-space website project**
 
-- 🌱 I’m currently learning **Node.js, Git & GitHub, MySQL**
+- 🌱 I’m currently learning **MySQL, TypeScript**
 
 - 💬 Ask me about **C++, JavaScript, Node.js, algorithms, data structures, OOP**
 
