@@ -30,7 +30,7 @@
   <a href="https://twitter.com/mohamed_ali_badawy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed_ali_badawy" height="30" width="40" />
   </a>
-  <a href="www.linkedin.com/in/mohamed-ali-badawy-pr" target="blank">
+  <a href="[www.linkedin.com/in/mohamed-ali-badawy-pr](https://www.linkedin.com/in/mohamed-ali-badawy-pr/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed badawy" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/mohamed.ali.badawy.pr" target="blank">
