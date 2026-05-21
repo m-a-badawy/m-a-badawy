@@ -35,15 +35,6 @@ I am a dedicated Backend Developer from Egypt, focused on building efficient, sc
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-a-badawy&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-a-badawy&layout=compact&theme=dark&hide_border=true&hide=html,css" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/mohamed-ali-badawy-pr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
