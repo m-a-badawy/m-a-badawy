@@ -1,16 +1,28 @@
 # 👨‍💻 Mohamed Badawy
 
-**Software Engineer - Backend Engineer | JavaScript - TypeScript | Node.js - NestJS - ExpertJS | Docker**
+**Backend Engineer | Systems-Oriented Developer | JavaScript - TypeScript | Node.js - NestJS | Docker**
 
-I am a dedicated Backend Developer from Egypt, focused on building efficient, scalable, and well-structured server-side applications. My approach combines technical precision with a commitment to clean code and SOLID principles.
+I am a Backend Developer from Egypt with a strong focus on understanding how systems work under the hood — from operating systems and networks to databases and runtime internals.
+
+I don’t just build applications; I focus on how and why they work, with a strong interest in scalability, performance, and system design fundamentals.
+
+---
+
+### 🧠 Core Interests (Beyond Just Frameworks)
+- Operating Systems fundamentals (CPU, memory management, scheduling)
+- Computer Networks fundamentals (protocols, routing, data transmission)
+- Database internals (storage engines, indexing, query execution)
+- Node.js internals & architecture (event loop, V8, async runtime behavior)
+- Backend system design and distributed systems basics
 
 ---
 
 ### 🚀 Key Focus Areas
-- **Backend Development:** Designing robust, scalable APIs and core logic.
-- **AI Integration:** Implementing complex AI pipelines and SaaS features.
-- **Performance:** Optimizing database queries and background job processing.
-- **Problem Solving:** Passionate about algorithms and efficient logic.
+- **Backend Development:** Building scalable APIs and server-side systems
+- **System Design:** Designing clean, modular, and maintainable architectures
+- **Performance Engineering:** Optimizing databases, APIs, and background jobs
+- **AI Integration:** Building SaaS features with AI-powered workflows
+- **Problem Solving:** Strong focus on algorithms and efficient system logic
 
 ---
 
@@ -37,9 +49,15 @@ I am a dedicated Backend Developer from Egypt, focused on building efficient, sc
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/mohamed-ali-badawy-pr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/mohamed.ali.badawy.pr"><img src="https://img.shields.io/badge/Codeforces-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" /></a>
-  <a href="mailto:mohamed.ali.badawy.pr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mohamed-ali-badawy-pr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/mohamed.ali.badawy.pr">
+    <img src="https://img.shields.io/badge/Codeforces-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
+  </a>
+  <a href="mailto:mohamed.ali.badawy.pr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="right">
