@@ -1,65 +1,111 @@
-# 👨‍💻 Mohamed Badawy
+# Mohamed Badawy
 
-**Backend Engineer | Systems-Oriented Developer | JavaScript - TypeScript | Node.js - NestJS | Docker**
+### Backend Developer · Node.js · NestJS · TypeScript
 
-I am a Backend Developer from Egypt with a strong focus on understanding how systems work under the hood — from operating systems and networks to databases and runtime internals.
+Backend Developer focused on building backend systems with **Node.js, NestJS, PostgreSQL, and TypeScript**.
 
-I don’t just build applications; I focus on how and why they work, with a strong interest in scalability, performance, and system design fundamentals.
-
----
-
-### 🧠 Core Interests (Beyond Just Frameworks)
-- Operating Systems fundamentals (CPU, memory management, scheduling)
-- Computer Networks fundamentals (protocols, routing, data transmission)
-- Database internals (storage engines, indexing, query execution)
-- Node.js internals & architecture (event loop, V8, async runtime behavior)
-- Backend system design and distributed systems basics
+I care about understanding **what happens under the hood** — not just how to use a framework.  
+Currently going deeper into **Operating Systems, Computer Networking, Node.js internals, and runtime architecture**, while applying these concepts through hands-on projects.
 
 ---
 
-### 🚀 Key Focus Areas
-- **Backend Development:** Building scalable APIs and server-side systems
-- **System Design:** Designing clean, modular, and maintainable architectures
-- **Performance Engineering:** Optimizing databases, APIs, and background jobs
-- **AI Integration:** Building SaaS features with AI-powered workflows
-- **Problem Solving:** Strong focus on algorithms and efficient system logic
+## What I'm Working On
+
+- Building backend services with **Node.js & NestJS**
+- Exploring **Node.js internals and runtime behavior**
+- Studying **Operating Systems & Computer Networking**
+- Building systems from scratch using **Node.js core APIs**
+- Learning backend infrastructure and troubleshooting with **Nginx**
+- Improving my understanding of how backend systems communicate, process I/O, and handle asynchronous work
 
 ---
 
-### 🛠️ Technical Stack
+## Featured Projects
 
-**Languages & Frameworks**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+### LANDrop — Local Network File Transfer System
 
-**Data & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+A zero-dependency local network file transfer system built using **Node.js core APIs**.
 
-**Tools & Testing**
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+The project explores:
+
+- TCP networking
+- Streams & Buffers
+- Event-driven programming
+- Filesystem APIs
+- HTTP
+- Local network communication
+- Packet capture and analysis with **Wireshark & WinDump**
+
+> Built from scratch to understand how data moves through a real network rather than relying on high-level abstractions.
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/mohamed-ali-badawy-pr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/mohamed.ali.badawy.pr">
-    <img src="https://img.shields.io/badge/Codeforces-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
-  </a>
-  <a href="mailto:mohamed.ali.badawy.pr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### Node.js Event Loop & Runtime
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=m-a-badawy&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
+A hands-on project focused on understanding **Node.js runtime behavior** through practical experiments.
+
+Exploring:
+
+- Event Loop phases
+- Timers
+- I/O callbacks
+- Poll & Check phases
+- Close callbacks
+- `process.nextTick()`
+- Microtasks
+- Asynchronous operations
+- libuv runtime behavior
+
+> The goal is to connect Node.js concepts with observable runtime behavior.
+
+---
+
+## Technical Stack
+
+### Languages & Runtime
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Backend
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
+
+### Security & Backend Infrastructure
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-CB3837?style=flat-square)
+
+### Tools & Testing
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-000000?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+---
+
+## Currently Learning
+
+```text
+Operating Systems
+Computer Networking
+Node.js Internals
+Runtime Architecture
+Backend Troubleshooting
+Nginx
